@@ -1,7 +1,7 @@
 {
-  "name": "Queen-Alexa",
+  "name": "ahoura",
   "version": "1.0.0",
-  "description": "Queen-Alexa",
+  "description": "ahoura",
   "main": "run.js",
   "directories": {
     "lib": "lib"
